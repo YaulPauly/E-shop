@@ -12,7 +12,7 @@ export const products = [
           color: "White",
           colorCode: "#FFFFFF",
           image:
-            "https://firebasestorage.googleapis.com/v0/b/e-shop-vid.appspot.com/o/products%2F1694245643713-iphone14-white.png?alt=media&token=2486cd23-8aa9-449e-8563-8c8a3278d0b4",
+            "",
         },
         {
           color: "Gray",
